@@ -70,6 +70,7 @@ namespace Temperature
             else
                 TempConv = ConvertiT.ToFahrenheit(t, cmb_1.SelectedIndex);
             lbl_ris.Content = TempConv;
+            MessageBox.Show("ciao sono la prof");
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

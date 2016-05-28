@@ -50,3 +50,16 @@ C:\Users\matteo.alessandrini\Source\Repos\Temperature_GIT\Temperature\Temperatur
 C:\Users\matteo.alessandrini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.g.resources
 C:\Users\matteo.alessandrini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.Properties.Resources.resources
 C:\Users\matteo.alessandrini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.csproj.GenerateResource.Cache
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.exe
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.pdb
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\bin\Debug\Temperature.exe
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\bin\Debug\Temperature.pdb
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.csprojResolveAssemblyReference.cache
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\MainWindow.baml
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\MainWindow.g.cs
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\App.g.cs
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature_MarkupCompile.cache
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.g.resources
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.Properties.Resources.resources
+C:\Users\gabriella.valentini\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.csproj.GenerateResource.Cache
