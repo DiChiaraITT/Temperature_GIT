@@ -71,5 +71,10 @@ namespace Temperature
                 TempConv = ConvertiT.ToFahrenheit(t, cmb_1.SelectedIndex);
             lbl_ris.Content = TempConv;
         }
+
+        private void btn_cliccami_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("LORENZO DI CHIARA E' IL PIù FIGO DELLA TERRA");
+        }
     }
 }

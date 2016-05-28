@@ -37,3 +37,16 @@ X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature
 X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.g.resources
 X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.Properties.Resources.resources
 X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.csproj.GenerateResource.Cache
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.exe
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.pdb
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\bin\Debug\Temperature.exe
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\bin\Debug\Temperature.pdb
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.csprojResolveAssemblyReference.cache
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\MainWindow.baml
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\MainWindow.g.cs
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\App.g.cs
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature_MarkupCompile.cache
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.g.resources
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.Properties.Resources.resources
+C:\Users\lorenzo.dichiara\Source\Repos\Temperature_GIT\Temperature\Temperature\obj\Debug\Temperature.csproj.GenerateResource.Cache
